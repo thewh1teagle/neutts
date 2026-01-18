@@ -1,5 +1,0 @@
-llama-cpp-python
-onnxruntime
-pre-commit
-pyaudio
-pytest
